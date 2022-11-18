@@ -1,4 +1,4 @@
-package com.demo.tutorial;
+package com.demo.helloworld;
 
 public class helloworld {
    public static void main(String[] args) {
